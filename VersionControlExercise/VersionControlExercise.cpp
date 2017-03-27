@@ -13,8 +13,14 @@ int main()
 	cout << "Another line to merge" << endl;
 	cout << "Add random" << endl;
 	cout << "Add something else" << endl;
+<<<<<<< HEAD
 	cout << "Add branch" << endl;
 	cout << "Add another branch" << endl;
+=======
+	cout << "Random line" << endl;
+	cout << "Editing random branch" << endl;
+	cout << "Branching a branch" << endl;
+>>>>>>> origin/Call_it_something
 	return 0;
 }
 
