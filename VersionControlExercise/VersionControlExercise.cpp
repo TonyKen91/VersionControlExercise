@@ -14,6 +14,7 @@ int main()
 	cout << "Add something else" << endl;
 	cout << "Random line" << endl;
 	cout << "Editing random branch" << endl;
+	cout << "Interesting" << endl;
 	return 0;
 }
 
