@@ -12,6 +12,7 @@ int main()
 	cout << "Sup World!" << endl;
 	cout << "Another line to merge" << endl;
 	cout << "Add something else" << endl;
+	cout << "Random line" << endl;
 	return 0;
 }
 
