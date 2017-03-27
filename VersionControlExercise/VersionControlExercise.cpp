@@ -11,12 +11,10 @@ int main()
 	cout << "Add something somewhere somehow by someone" << endl;
 	cout << "Sup World!" << endl;
 	cout << "Another line to merge" << endl;
+	cout << "Add random" << endl;
 	cout << "Add something else" << endl;
-
-	cout << "Add branch else" << endl;
-
-
-	cout << "Add another branch else" << endl;
+	cout << "Add branch" << endl;
+	cout << "Add another branch" << endl;
 	return 0;
 }
 
