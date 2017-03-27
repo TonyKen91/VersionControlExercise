@@ -27,6 +27,7 @@ int main()
 	cout << "goodbye World!" << endl;
 	cout << "Yay more branches" << endl;
 	cout << "other" << endl;
+	cout << "HELP" << endl;
 	return 0;
 }
 
