@@ -14,11 +14,13 @@ int main()
 	cout << "Add random" << endl;
 	cout << "Add something else" << endl;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
+>>>>>>> Lets_make_a_tree
 	cout << "Add branch" << endl;
 	cout << "Add another branch" << endl;
-=======
 	cout << "Random line" << endl;
 	cout << "Editing random branch" << endl;
 <<<<<<< HEAD
@@ -29,6 +31,8 @@ int main()
 >>>>>>> origin/Lets_make_a_tree
 =======
 	cout << "Branching a branch" << endl;
+<<<<<<< HEAD
+=======
 	>> >> >> > origin / Call_it_something
 >>>>>>> Head_Branch
 
@@ -55,7 +59,11 @@ int main()
 =======
 >>>>>>> Branch_Of_Branch
 >>>>>>> New_Branch
+<<<<<<< HEAD
 >>>>>>> origin/Lets_make_a_tree
+=======
+>>>>>>> Lets_make_a_tree
+>>>>>>> origin/Branch_of_SUp_World
 	return 0;
 }
 
