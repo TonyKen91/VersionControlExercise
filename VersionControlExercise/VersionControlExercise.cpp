@@ -23,11 +23,19 @@ int main()
 	cout << "Editing random branch" << endl;
 <<<<<<< HEAD
 	cout << "Interesting" << endl;
+<<<<<<< HEAD
+=======
+	cout << "Tree making" << endl;
+>>>>>>> origin/Lets_make_a_tree
 =======
 	cout << "Branching a branch" << endl;
 	>> >> >> > origin / Call_it_something
 >>>>>>> Head_Branch
 
+<<<<<<< HEAD
+	cout << "Add branch else" << endl;
+	cout << "Add another part" << endl;
+=======
 
 
 <<<<<<< HEAD
@@ -42,7 +50,12 @@ int main()
 =======
 		cout << "other" << endl;
 >>>>>>> Head_Branch
+<<<<<<< HEAD
 >>>>>>> origin/Branch_Of_Branch
+=======
+>>>>>>> Branch_Of_Branch
+>>>>>>> New_Branch
+>>>>>>> origin/Lets_make_a_tree
 	return 0;
 }
 
