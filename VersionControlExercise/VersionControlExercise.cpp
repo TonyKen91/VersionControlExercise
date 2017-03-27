@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Add something" << endl;
+	cout << "Sup World!" << endl;
 	cout << "Add something else" << endl;
 	return 0;
 }
