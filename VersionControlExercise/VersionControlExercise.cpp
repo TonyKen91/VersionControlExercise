@@ -32,6 +32,9 @@ int main()
 =======
 	cout << "Branching a branch" << endl;
 <<<<<<< HEAD
+	cout << "Don't ruin my tree" << endl;
+=======
+<<<<<<< HEAD
 =======
 	>> >> >> > origin / Call_it_something
 >>>>>>> Head_Branch
@@ -63,7 +66,11 @@ int main()
 >>>>>>> origin/Lets_make_a_tree
 =======
 >>>>>>> Lets_make_a_tree
+<<<<<<< HEAD
 >>>>>>> origin/Branch_of_SUp_World
+=======
+>>>>>>> Branch_of_SUp_World
+>>>>>>> origin/Call_it_something
 	return 0;
 }
 
