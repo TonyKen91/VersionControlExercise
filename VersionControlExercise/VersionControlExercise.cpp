@@ -13,46 +13,27 @@ int main()
 	cout << "Another line to merge" << endl;
 	cout << "Add random" << endl;
 	cout << "Add something else" << endl;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> Lets_make_a_tree
 	cout << "Add branch" << endl;
 	cout << "Add another branch" << endl;
 	cout << "Random line" << endl;
 	cout << "Editing random branch" << endl;
-<<<<<<< HEAD
 	cout << "Interesting" << endl;
 <<<<<<< HEAD
 =======
 	cout << "Tree making" << endl;
+<<<<<<< HEAD
 >>>>>>> origin/Lets_make_a_tree
 =======
+=======
+>>>>>>> master
 	cout << "Branching a branch" << endl;
-<<<<<<< HEAD
 	cout << "Don't ruin my tree" << endl;
-=======
-<<<<<<< HEAD
-=======
-	>> >> >> > origin / Call_it_something
->>>>>>> Head_Branch
-
-<<<<<<< HEAD
 	cout << "Add branch else" << endl;
 	cout << "Add another part" << endl;
-=======
-
-
-<<<<<<< HEAD
 	cout << "Add another branch else" << endl;
-
-
-
 	cout << "goodbye World!" << endl;
-=======
 	cout << "Yay more branches" << endl;
+<<<<<<< HEAD
 >>>>>>> More_branches
 =======
 		cout << "other" << endl;
@@ -71,6 +52,10 @@ int main()
 =======
 >>>>>>> Branch_of_SUp_World
 >>>>>>> origin/Call_it_something
+=======
+	cout << "other" << endl;
+	cout << "HELP" << endl;
+>>>>>>> master
 	return 0;
 }
 
