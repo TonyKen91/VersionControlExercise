@@ -12,6 +12,7 @@ int main()
 	cout << "Sup World!" << endl;
 	cout << "Another line to merge" << endl;
 	cout << "Add something else" << endl;
+<<<<<<< HEAD
 
 	cout << "Add branch else" << endl;
 
@@ -21,6 +22,9 @@ int main()
 
 
 	cout << "goodbye World!" << endl;
+=======
+	cout << "Yay more branches" << endl;
+>>>>>>> More_branches
 	return 0;
 }
 
