@@ -20,7 +20,11 @@ int main()
 	cout << "Random line" << endl;
 	cout << "Editing random branch" << endl;
 	cout << "Branching a branch" << endl;
->>>>>>> origin/Call_it_something
+	>> >> >> > origin / Call_it_something
+
+
+
+		cout << "other" << endl;
 	return 0;
 }
 
