@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
 	cout << "Add something" << endl;
+	cout << "Add something else" << endl;
 	return 0;
 }
 
